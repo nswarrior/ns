@@ -1,0 +1,12 @@
+{
+    "default_checks": {
+        "roblox": true,
+        "steam": true,
+        "discord": true,
+        "reddit": false,
+        "epicgames": false,
+        "riotgames": false,
+        "rockstargames": false
+    },
+    "discord_webhook": "https://discord.com/api/webhooks/1287120899778019378/ST223SrEWq99ZytG8dsmG8Ct2gd93HWH6LUgcBEp-eabqBbwtIkx9yEtXNTEGkzM6Wca"
+}
